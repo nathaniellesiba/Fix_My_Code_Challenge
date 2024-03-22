@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """ FizzBuzz
+    By rearranging the conditions, we ensure that "FizzBuzz" is printed when the number is a multiple of both 3 and 5
 """
 import sys
 
